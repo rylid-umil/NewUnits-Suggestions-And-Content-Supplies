@@ -10,4 +10,5 @@ Sound Effects
 Maybe some content ideas
 Testers and helpers for my mod
 maybe some people who can help make sprites because i suck at that
+bullet sprites
 and like 10 thousand more things
