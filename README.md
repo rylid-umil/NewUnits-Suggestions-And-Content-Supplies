@@ -1,5 +1,6 @@
 # NewUnits-Suggestions-And-Content-Supplies
 This is where you can input sprite, sounds, content suggestions, etc for my mod rylid-umil/NewUnits
+if you want to add stuff, submit an issue and i'll add you as collaborator
 
 Do not delete readme.md
 
