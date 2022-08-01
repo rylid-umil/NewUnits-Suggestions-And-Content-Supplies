@@ -1,5 +1,5 @@
 # NewUnits-Suggestions-And-Content-Supplies
-This is where you can input sprite, sound,s content suggestions, etc for my mod rylid-umil/NewUnits
+This is where you can input sprite, sounds, content suggestions, etc for my mod rylid-umil/NewUnits
 Do not delete readme.md
 Since this a units mod, unit-related sprites are most wanted.
 Needed sprites as of now:
